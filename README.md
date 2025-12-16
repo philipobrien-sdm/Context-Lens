@@ -2,7 +2,8 @@
 
 ContextLens is an AI-powered educational tool designed to personalize learning materials. It bridges the gap between a teacher's instructional style and a learner's specific context using the Google Gemini API.
 
-![ContextLens App](https://via.placeholder.com/800x400?text=ContextLens+Preview)
+<img width="800" height="300" alt="Screenshot 2025-12-16 111812" src="https://github.com/user-attachments/assets/4e3550f0-6bc7-452c-8a6e-7d145abd67af" />
+<img width="800" height="300" alt="Screenshot 2025-12-16 111746" src="https://github.com/user-attachments/assets/275adc7a-f043-4494-8b48-8f612074e389" />
 
 ## Features
 
